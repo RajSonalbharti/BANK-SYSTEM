@@ -1,6 +1,6 @@
 .cards {
     padding: 4rem;
-    background: rgb(182, 171, 171);
+    background: #fff;
   }
   
   h1 {
@@ -47,7 +47,7 @@
   .cards__item__pic-wrap {
     position: relative;
     width: 100%;
-    padding-top: 10%;
+    padding-top: 67%;
     overflow: hidden;
   }
   
